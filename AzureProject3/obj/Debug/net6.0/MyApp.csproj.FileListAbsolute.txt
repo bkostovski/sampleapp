@@ -1,0 +1,30 @@
+C:\Users\bojan.kostovski\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Users\bojan.kostovski\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Users\bojan.kostovski\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Users\bojan.kostovski\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Users\bojan.kostovski\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\Users\bojan.kostovski\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Users\bojan.kostovski\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Users\bojan.kostovski\Desktop\SF Projects\HelloWorldApp\AzureProject2\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
